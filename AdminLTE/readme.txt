@@ -2,5 +2,3 @@ Thank you for downloading this Bootstrap theme. This theme was downloaded from U
 
 If you need more themes, visit our website: http://usebootstrap.com/
 
-
-////hola
