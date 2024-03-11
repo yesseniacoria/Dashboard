@@ -3,11 +3,13 @@
 @import url('https://fonts.googleapis.com/css?family=Numans');
 
 html,body{
-background-image: url('http://getwallpapers.com/wallpaper/full/a/5/d/544750.jpg');
+
+background-image: url(e2a3f767395688206be60fb8e9453b96.jpg);
 background-size: cover;
 background-repeat: no-repeat;
 height: 100%;
 font-family: 'Numans', sans-serif;
+;
 }
 
 .container{
@@ -32,16 +34,19 @@ color: #FFC312;
 .social_icon span:hover{
 color: white;
 cursor: pointer;
+
 }
 
 .card-header h3{
 color: white;
+
 }
 
 .social_icon{
 position: absolute;
 right: 20px;
 top: -45px;
+
 }
 
 .input-group-prepend span{
@@ -59,6 +64,7 @@ box-shadow: 0 0 0 0 !important;
 
 .remember{
 color: white;
+
 }
 
 .remember input
@@ -67,23 +73,29 @@ width: 20px;
 height: 20px;
 margin-left: 15px;
 margin-right: 5px;
+
 }
 
 .login_btn{
 color: black;
 background-color: #FFC312;
 width: 100px;
+
 }
 
 .login_btn:hover{
 color: black;
 background-color: white;
+
 }
 
 .links{
-color: white;
+color: rgb(255, 255, 255);
+background-color: rgba(0, 0, 0, 0.319)
 }
 
 .links a{
 margin-left: 4px;
+color: rgb(255, 230, 0);
+background-color: rgba(0, 0, 0, 0.121)
 }
