@@ -10,6 +10,7 @@
  * Copyright 2011-2019 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
+
 :root {
   --blue: #007bff;
   --indigo: #6610f2;
@@ -66,7 +67,10 @@ body {
   line-height: 1.5;
   color: #212529;
   text-align: left;
-  background-image: url(e2a3f767395688206be60fb8e9453b96.jpg);
+  background-image: url(2.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-attachment: fixed;
   background-color: #ffffff09;
 }
 
